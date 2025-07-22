@@ -1,1 +1,1 @@
-# GFG_DSA_Solutions
+# DSA_Solutions
